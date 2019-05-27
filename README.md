@@ -1,6 +1,6 @@
 # Fogo-Doom
 
-Projeto foi desenvolvido com base na idéia sugerida por Filipe Deschamps, dono do canala "Filipe Deschamps - Programação e Tecnologia" (https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)<br>
+Projeto foi desenvolvido com base na idéia sugerida por Filipe Deschamps, dono do canal "Filipe Deschamps - Programação e Tecnologia" (https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)<br>
 
 # O que é?
 
