@@ -4,7 +4,7 @@ Projeto foi desenvolvido com base na idéia sugerida por Filipe Deschamps, dono 
 
 # O que é?
 
-O projeto consiste em formar uma matriz com valores correspondentes aos tons de laranja. Baseando-se em uma paleta com 37 tons de laranja/vermelho, a partir do valor no quadrado abaixo da matriz, podemos setar o quadrado acima fazendo com que dê a impressão de ser uma imagem uniforme.
+A idéia consiste em reproduzir o fogo do saudoso jogo Doom. O projeto consiste em formar uma matriz com valores correspondentes aos tons de laranja. Baseando-se em uma paleta com 37 tons de laranja/vermelho, a partir do valor no quadrado abaixo da matriz, podemos setar o quadrado acima fazendo com que dê a impressão de ser uma imagem uniforme.
 
 # Tecnologia?
 
